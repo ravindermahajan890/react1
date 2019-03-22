@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "my-react-app",
-  "alias": ["ravindermahajan.co.in", "www.ravindermahajan.co.in"],
+  "alias": ["www.ravindermahajan.co.in"],
   "builds": [
     {
       "src": "package.json",
