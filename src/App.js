@@ -17,7 +17,8 @@ class App extends Component {
             target="_blank"
             rel="noopener noreferrer"
           >
-            Learn React with now auto deployment
+            Learn React with now auto deployment....
+
           </a>
         </header>
       </div>
