@@ -1,7 +1,7 @@
 {
   "version": 2,
   "name": "Ravinder's App",
-  "alias": ["www.ravindermahajan.co.in"],
+  "alias": ["ravindermahajan.co.in"],
   "builds": [
     {
       "src": "package.json",
